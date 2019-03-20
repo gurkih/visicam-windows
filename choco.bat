@@ -1,0 +1,1 @@
+choco install ant DotNet4.0 ffmpeg 4.1.1 grepwin 1.9.1 InkScape jdk8 jre8 OpenCV vlc

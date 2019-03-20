@@ -1,0 +1,1 @@
+ffmpeg -f dshow -video_size 1600x1200 -i video="@device_pnp_\\?\usb#vid_046d&pid_0809&mi_00#6&5e1f6e&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global" -y -vframes 1 -f image2 img.jpg
